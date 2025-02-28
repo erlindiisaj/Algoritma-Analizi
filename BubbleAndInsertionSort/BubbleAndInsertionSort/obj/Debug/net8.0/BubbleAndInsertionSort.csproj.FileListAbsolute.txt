@@ -1,0 +1,15 @@
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\bin\Debug\net8.0\BubbleAndInsertionSort.exe
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\bin\Debug\net8.0\BubbleAndInsertionSort.deps.json
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\bin\Debug\net8.0\BubbleAndInsertionSort.runtimeconfig.json
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\bin\Debug\net8.0\BubbleAndInsertionSort.dll
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\bin\Debug\net8.0\BubbleAndInsertionSort.pdb
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\obj\Debug\net8.0\BubbleAndInsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\obj\Debug\net8.0\BubbleAndInsertionSort.AssemblyInfoInputs.cache
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\obj\Debug\net8.0\BubbleAndInsertionSort.AssemblyInfo.cs
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\obj\Debug\net8.0\BubbleAndInsertionSort.csproj.CoreCompileInputs.cache
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\obj\Debug\net8.0\BubbleAndInsertionSort.sourcelink.json
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\obj\Debug\net8.0\BubbleAndInsertionSort.dll
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\obj\Debug\net8.0\refint\BubbleAndInsertionSort.dll
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\obj\Debug\net8.0\BubbleAndInsertionSort.pdb
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\obj\Debug\net8.0\BubbleAndInsertionSort.genruntimeconfig.cache
+E:\Algoritma-Analizi\BubbleAndInsertionSort\BubbleAndInsertionSort\obj\Debug\net8.0\ref\BubbleAndInsertionSort.dll
