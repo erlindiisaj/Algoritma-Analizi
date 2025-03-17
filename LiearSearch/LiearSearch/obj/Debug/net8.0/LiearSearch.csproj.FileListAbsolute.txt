@@ -1,0 +1,15 @@
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\bin\Debug\net8.0\LiearSearch.exe
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\bin\Debug\net8.0\LiearSearch.deps.json
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\bin\Debug\net8.0\LiearSearch.runtimeconfig.json
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\bin\Debug\net8.0\LiearSearch.dll
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\bin\Debug\net8.0\LiearSearch.pdb
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\obj\Debug\net8.0\LiearSearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\obj\Debug\net8.0\LiearSearch.AssemblyInfoInputs.cache
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\obj\Debug\net8.0\LiearSearch.AssemblyInfo.cs
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\obj\Debug\net8.0\LiearSearch.csproj.CoreCompileInputs.cache
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\obj\Debug\net8.0\LiearSearch.sourcelink.json
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\obj\Debug\net8.0\LiearSearch.dll
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\obj\Debug\net8.0\refint\LiearSearch.dll
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\obj\Debug\net8.0\LiearSearch.pdb
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\obj\Debug\net8.0\LiearSearch.genruntimeconfig.cache
+E:\Algoritma-Analizi\LiearSearch\LiearSearch\obj\Debug\net8.0\ref\LiearSearch.dll

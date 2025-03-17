@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "LiearSearch/1.0.0": {
+        "runtime": {
+          "LiearSearch.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LiearSearch/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
