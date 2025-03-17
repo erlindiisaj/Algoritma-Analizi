@@ -1,0 +1,15 @@
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\bin\Debug\net8.0\BinarySearch.exe
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\bin\Debug\net8.0\BinarySearch.deps.json
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\bin\Debug\net8.0\BinarySearch.runtimeconfig.json
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\bin\Debug\net8.0\BinarySearch.dll
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\bin\Debug\net8.0\BinarySearch.pdb
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfoInputs.cache
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.AssemblyInfo.cs
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.csproj.CoreCompileInputs.cache
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.sourcelink.json
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.dll
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\obj\Debug\net8.0\refint\BinarySearch.dll
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.pdb
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\obj\Debug\net8.0\BinarySearch.genruntimeconfig.cache
+E:\Algoritma-Analizi\BinarySearch\BinarySearch\obj\Debug\net8.0\ref\BinarySearch.dll
